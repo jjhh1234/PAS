@@ -16,6 +16,7 @@
 - **DataBase** :  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
 - **ETC** : <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 ## 📝 시스템 아키텍쳐
++ 프로그램 아키텍쳐
 ![image](https://github.com/user-attachments/assets/e437ce76-f925-4c18-b7e5-c9cef2810b02)
 
 ## 📌 주요기능
