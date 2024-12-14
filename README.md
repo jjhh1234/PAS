@@ -15,6 +15,9 @@
 - **Server** : <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AWS&logoColor=white">
 - **DataBase** :  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
 - **ETC** : <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+## 📝 시스템 아키텍쳐
+![image](https://github.com/user-attachments/assets/e437ce76-f925-4c18-b7e5-c9cef2810b02)
+
 ## 📌 주요기능
 1. **로그인 및 회원정보 등록**
    + 카카오 로그인(연동 동작 처리)
