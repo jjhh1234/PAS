@@ -19,8 +19,8 @@
 ## 📝 시스템 아키텍쳐
 + ERD 설계도
 ![image](https://github.com/user-attachments/assets/d5fd0377-4d26-4b62-a562-75e12d98cfba)
-
-
++ 시스템 아키텍쳐
+![image](https://github.com/user-attachments/assets/6db5819f-7aba-4868-9790-e38c81eb9af3)
 ## 📌 주요기능
 1. **로그인 및 회원정보 등록**
    + 카카오 로그인(연동 동작 처리)
