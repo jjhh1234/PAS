@@ -19,7 +19,8 @@
 - **ETC** : <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
 ## 📝 시스템 아키텍쳐
 + ERD 설계도
-![image](https://github.com/user-attachments/assets/d5fd0377-4d26-4b62-a562-75e12d98cfba)
+![image](https://github.com/user-attachments/assets/08bbcb1b-e4bd-4a36-88cb-f1a911822343)
+
 + 시스템 아키텍쳐
 ![image](https://github.com/user-attachments/assets/6db5819f-7aba-4868-9790-e38c81eb9af3)
 ## 📌 주요기능
