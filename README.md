@@ -23,6 +23,8 @@
 + 시스템 아키텍쳐
 ![image](https://github.com/user-attachments/assets/d0178ab8-4d8d-44d0-877a-f207d565affa)
 
++ 담당 개발 화면
+![Image](https://github.com/user-attachments/assets/c2653dd9-aee8-4d1f-aed8-dda193d13cd4)
 ## 📌 주요기능
 1. **로그인 및 회원정보 등록**
    + 카카오 로그인(연동 동작 처리)
